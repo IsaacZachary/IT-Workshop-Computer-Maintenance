@@ -15,9 +15,9 @@ class CreateTicketsTable extends Migration
 
             $table->longText('content')->nullable();
 
-            $table->string('author_name')->nullable();
+            $table->string('brought_by')->nullable();
 
-            $table->string('author_email')->nullable();
+            $table->string('email')->nullable();
 
             $table->timestamps();
 

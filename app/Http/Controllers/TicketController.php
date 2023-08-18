@@ -33,8 +33,8 @@ class TicketController extends Controller
         $request->validate([
             'title'         => 'required',
             'content'       => 'required',
-            'author_name'   => 'required',
-            'author_email'  => 'required|email',
+            'brought-by'   => 'required',
+            'email'  => 'required|email',
         ]);
 
         $request->request->add([
@@ -72,8 +72,8 @@ class TicketController extends Controller
         ]);
 
         $comment = $ticket->comments()->create([
-            'author_name'   => $ticket->author_name,
-            'author_email'  => $ticket->author_email,
+            'brought_by'   => $ticket->author_name,
+            'email'  => $ticket->author_email,
             'comment_text'  => $request->comment_text
         ]);
 

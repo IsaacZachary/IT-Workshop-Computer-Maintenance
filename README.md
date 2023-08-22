@@ -43,6 +43,6 @@ Basically, feel free to use and re-use any way you want.
 
 ---
 
-## More from our DEFTEC Attachees
+## More from DEFTEC Attachees 2023
 
 Check out our bootstrap 5 static web blueprint  [DEFTEC WEB](https://isaaczachary.github.io/DEFTECWEB/)

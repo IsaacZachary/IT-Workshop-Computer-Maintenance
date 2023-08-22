@@ -2,30 +2,40 @@ Demo support ticketing project based on Laravel 8.
 
 Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.com)
 
----
+**Author:** Isaac Zachary and Other DEFTEC Attachees
 
-![Laravel Support Tickets 01](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.07-PM.png)
+**Project Name:** IT-Workshop Computer Maintenance System
 
----
+**Demo:** Support ticketing project based on Laravel 8.
 
-![Laravel Support Tickets 02](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.34-PM.png)
+## Screenshots
+![System Screenshot 1](https://ibb.co/wSPGsKR)
+![System Screenshot 1](https://ibb.co/YWydLRq)
+![System Screenshot 1](https://ibb.co/M1pxQZS)
+![System Screenshot 1](https://ibb.co/GMzhT4z)
+![System Screenshot 1](https://ibb.co/H2vSsLT)
+![System Screenshot 1](https://ibb.co/6YJSRV4)
+![System Screenshot 1](https://ibb.co/SQ95mHt)
+...
 
----
+## How to Use
 
-![Laravel Support Tickets 03](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.48-PM.png)
+1. Clone the repository with `git clone`
+2. Copy `.env.example` file to `.env` and edit database credentials there
+3. Run `composer install`
+4. Run `php artisan key:generate`
+5. Run `php artisan migrate --seed` (it has some seeded data for your testing)
+6. Launch the main URL
+7. If you want to login, click `Login` on top-right and use credentials `admin@admin.com` - `password`
+8. Agent's credentials are `agent1@agent1.com` - `password`
 
----
+## License
 
-![Laravel Support Tickets 04](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.12.10-PM.png)
+Feel free to use and re-use any way you want.
 
----
+## More from Our DEFTEC Team
 
-![Laravel Support Tickets 05](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.12.33-PM.png)
-
----
-
-![Laravel Support Tickets 06](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.17.59-PM.png)
-
+- Stay tuned for more updates from our DEFTEC team on our projects and collaborations.
 ---
 
 ## How to use

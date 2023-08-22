@@ -9,13 +9,13 @@ Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.
 **Demo:** Support ticketing project based on Laravel 8.
 
 ## Screenshots
-https://ibb.co/wSPGsKR
-https://ibb.co/YWydLRq
-https://ibb.co/M1pxQZS
-https://ibb.co/GMzhT4z
-https://ibb.co/H2vSsLT
-https://ibb.co/6YJSRV4
-https://ibb.co/SQ95mHt
+![System Screenshot 1](https://ibb.co/wSPGsKR)
+![System Screenshot 1](https://ibb.co/YWydLRq)
+![System Screenshot 1](https://ibb.co/M1pxQZS)
+![System Screenshot 1](https://ibb.co/GMzhT4z)
+![System Screenshot 1](https://ibb.co/H2vSsLT)
+![System Screenshot 1](https://ibb.co/6YJSRV4)
+![System Screenshot 1](https://ibb.co/SQ95mHt)
 ...
 
 ## How to Use

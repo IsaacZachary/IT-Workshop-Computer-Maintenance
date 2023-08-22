@@ -34,28 +34,8 @@ Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.
 6. Launch the main URL
 7. If you want to login, click `Login` on top-right and use credentials `admin@admin.com` - `password`
 8. Agent's credentials are `agent1@agent1.com` - `password`
-
-## License
-
-Feel free to use and re-use any way you want.
-
-## More from Our DEFTEC Team
-
-- Stay tuned for more updates from our DEFTEC team on our projects and collaborations.
----
-
-## How to use
-
-- Clone the repository with __git clone__
-- Copy __.env.example__ file to __.env__ and edit database credentials there
-- Run __composer install__
-- Run __php artisan key:generate__
-- Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- That's it: launch the main URL 
-- If you want to login, click `Login` on top-right and use credentials __admin@admin.com__ - __password__ 
-- Technician's credentials are __agent1@agent1.com__ - __password__ 
-- Feel free to modify the admin and Technicians credentials accordingly.
----
+9. Feel free to modify the admin and Technicians credentials accordingly.
+    
 
 ## License
 
@@ -65,4 +45,4 @@ Basically, feel free to use and re-use any way you want.
 
 ## More from our DEFTEC Attachees
 
-- Check out our bootstrap 5 static web blueprint  [DEFTEC WEB](https://isaaczachary.github.io/DEFTECWEB/)
+Check out our bootstrap 5 static web blueprint  [DEFTEC WEB](https://isaaczachary.github.io/DEFTECWEB/)

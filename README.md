@@ -9,7 +9,8 @@ Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.
 **Demo:** Support ticketing project based on Laravel 8.
 
 ## Screenshots
-![System Screenshot 1](https://ibb.co/wSPGsKR)
+![System Screenshot 1](https://github.com/IsaacZachary/IT-Workshop-Computer-Maintenance/blob/master/public/img/screenshots/1.Welcome.PNG)
+
 ![System Screenshot 1](https://ibb.co/YWydLRq)
 ![System Screenshot 1](https://ibb.co/M1pxQZS)
 ![System Screenshot 1](https://ibb.co/GMzhT4z)

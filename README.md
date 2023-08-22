@@ -53,8 +53,8 @@ Feel free to use and re-use any way you want.
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL 
 - If you want to login, click `Login` on top-right and use credentials __admin@admin.com__ - __password__ 
-- Agent's credentials are __agent1@agent1.com__ - __password__ 
-
+- Technician's credentials are __agent1@agent1.com__ - __password__ 
+- Feel free to modify the admin and Technicians credentials accordingly.
 ---
 
 ## License
@@ -63,10 +63,6 @@ Basically, feel free to use and re-use any way you want.
 
 ---
 
-## More from our LaravelDaily Team
+## More from our DEFTEC Attachees
 
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+- Check out our bootstrap 5 static web blueprint  [DEFTEC WEB](https://isaaczachary.github.io/DEFTECWEB/)
